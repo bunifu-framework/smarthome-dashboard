@@ -17,7 +17,7 @@ If you'll be running the solution in *Visual Studio*, please ensure you have a c
 
 ### Deployment
 
-By default, you will require [.NET 4.5](https://docs.microsoft.com/en-us/dotnet/framework/install/guide-for-developers) and above to run the executable on client machines; this can however be modified in *Visual Studio* by changing the .NET reference-setting in the **Project** Tab under **TeamWave Dashboard Demonstration Properties...** to work with [.NET 4.0](https://docs.microsoft.com/en-us/dotnet/framework/install/guide-for-developers).
+By default, you will require [.NET 4.5](https://docs.microsoft.com/en-us/dotnet/framework/install/guide-for-developers) and above to run the executable on client machines; this can however be modified in *Visual Studio* by changing the .NET reference-setting in the **Project** Tab under **SmartHomeDashboard Properties...** to work with [.NET 4.0](https://docs.microsoft.com/en-us/dotnet/framework/install/guide-for-developers).
 
 ## Authors
 
